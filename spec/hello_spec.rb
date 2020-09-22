@@ -1,4 +1,5 @@
 require './hello'
+require 'pry'
 
 RSpec.describe Hello do
 	describe Hello do
